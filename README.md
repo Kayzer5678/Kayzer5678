@@ -42,3 +42,5 @@ I'm a four year computer engineering undergraduate at University of State of Mé
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 
 </span>
+
+Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
